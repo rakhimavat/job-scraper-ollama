@@ -1,6 +1,6 @@
 # Job Scraper + Ollama AI Filter
 
-> Automatically scrape 70+ company career pages for **Data Analyst roles in Bangalore** using a local AI model. No paid APIs. No subscriptions. Runs entirely on your machine.
+> Automatically scrape 70+ company career pages for **tech roles in Bangalore** using a local AI model. No paid APIs. No subscriptions. Runs entirely on your machine.
 
 ---
 
